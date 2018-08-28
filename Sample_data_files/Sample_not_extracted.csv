@@ -1,0 +1,38 @@
+Survey_ID,NAACC_ID,Lat,Long,Rd_Name,Culv_Mat,In_Type,In_Shape,In_A,In_B,HW,Slope,Length,Out_Shape,Out_A,Out_B,Comments,Flags
+42483,42976,42.5168,-73.779,-1,Metal,Headwall,Bridge with Side Slopes,38,5,0.6,0,10,-1,-1,-1,-1,0
+49378,53332,42.47869,-73.793967,-1,Combination,Projecting,Bridge with Abutments and Side Slopes,90.1,18.2,0,0,29,-1,-1,-1,-1,0
+49035,48336,42.463679,-73.846395,-1,Combination,Headwall,Bridge with Abutments and Side Slopes,37.9,13.6,2.1,0,17,-1,-1,-1,-1,0
+10991,11229,42.437435,-74.203723,-1,Concrete,Wingwall,Bridge with Abutments,75,14,-14,0.5,14.5,-1,-1,-1,-1,0
+10963,11201,42.445455,-74.193951,-1,Concrete,Wingwall,Bridge with Abutments,32,7.3,-7.3,1.2,40,-1,-1,-1,-1,0
+10869,11106,42.468481,-74.24254,-1,Concrete,Wingwall,Bridge with Abutments,22,8,-8,2.2,36,-1,-1,-1,-1,0
+10874,11111,42.455006,-74.225035,-1,Concrete,Wingwall,Bridge with Abutments,20,4.3,-4.3,0.9,29,-1,-1,-1,-1,0
+49379,53344,42.477178,-73.794287,-1,Combination,Projecting,Box,125,16.3,0,0,49.8,-1,-1,-1,-1,0
+51594,53306,42.51924,-73.82136,-1,Combination,Projecting,Box,66.7,13.6,0,0,16.4,-1,-1,-1,-1,0
+48981,53264,42.468859,-73.925454,-1,Combination,Projecting,Box,31.5,12.7,0,0,33.4,-1,-1,-1,-1,0
+42308,42790,42.64931,-74.00116,-1,Wood,Headwall,Bridge with Side Slopes,17.3,2.7,1.1,0,8,-1,-1,-1,-1,0
+11004,11242,42.434216,-74.201346,-1,Concrete,Wingwall,Box,16,8.5,-8.5,13.7,95,-1,-1,-1,-1,0
+10959,11196,42.449188,-74.189856,-1,Steel / Metal,Wingwall,Elliptical Culvert Embedded or with Persistent Water,12,7.2,-7.2,6.7,33,-1,-1,-1,-1,2
+10959,11197,42.449188,-74.189856,-1,Steel / Metal,Wingwall,Elliptical Culvert Embedded or with Persistent Water,11,6.5,-6.5,6.7,32,-1,-1,-1,-1,2
+11007,11245,42.507278,-74.210173,-1,Steel / Metal,Headwall and Wingwall,Round Culvert Embedded or with Persistent Water,5.8,5.7,-5.7,3,36.3,-1,-1,-1,-1,0
+10940,11177,42.491881,-74.198481,-1,Steel / Metal,Headwall and Wingwall,Round Culvert Embedded or with Persistent Water,5,4.9,-4.9,2.8,40,-1,-1,-1,-1,0
+10997,11235,42.464316,-74.18467,-1,Steel / Metal,Projecting,Round Culvert Embedded or with Persistent Water,4,3.9,-3.9,7,41,-1,-1,-1,-1,0
+10993,11231,42.46264,-74.180915,-1,Concrete,Projecting,Bridge with Abutments,2.5,12.3,-12.3,0.4,48,-1,-1,-1,-1,0
+10943,11180,42.48401,-74.208103,-1,Steel / Metal,Headwall,Round Culvert Embedded or with Persistent Water,2.5,2.4,-2.4,3.7,40,-1,-1,-1,-1,0
+10992,11230,42.462213,-74.17937,-1,Plastic,Wingwall,Round Culvert Embedded or with Persistent Water,2.5,2.4,-2.4,3.6,82,-1,-1,-1,-1,0
+10961,11199,42.447685,-74.191668,-1,Steel / Metal,Wingwall,Round Culvert Embedded or with Persistent Water,2.2,1.6,-1.6,6,50,-1,-1,-1,-1,0
+11762,12018,42.447685,-74.191668,-1,Steel / Metal,Wingwall,Round Culvert Embedded or with Persistent Water,2.2,1.6,-1.6,6,50,-1,-1,-1,-1,0
+11766,12022,42.447685,-74.191668,-1,Steel / Metal,Wingwall,Round Culvert Embedded or with Persistent Water,2.2,1.6,-1.6,6,50,-1,-1,-1,-1,0
+10999,11237,42.467181,-74.185571,-1,Steel / Metal,Wingwall,Round Culvert Embedded or with Persistent Water,2.1,2,-2,4.6,31,-1,-1,-1,-1,0
+10954,11191,42.437206,-74.183375,-1,Steel / Metal,Headwall,Round Culvert Embedded or with Persistent Water,2,2.4,-2.4,5.6,43.1,-1,-1,-1,-1,0
+10945,11182,42.476376,-74.215916,-1,Plastic,Projecting,Round Culvert Embedded or with Persistent Water,2,1.9,-1.9,2.3,39.5,-1,-1,-1,-1,0
+10953,11190,42.436841,-74.18648,-1,Steel / Metal,Headwall,Round Culvert Embedded or with Persistent Water,2,2,-2,1.7,34.5,-1,-1,-1,-1,0
+11018,11256,42.465377,-74.192502,-1,Plastic,Projecting,Round Culvert Embedded or with Persistent Water,2,1.9,-1.9,1.2,37.6,-1,-1,-1,-1,0
+10912,11149,42.489835,-74.18535,-1,Steel / Metal,Wingwall,Round Culvert Embedded or with Persistent Water,1.7,1.3,-1.3,2.7,19,-1,-1,-1,-1,0
+10925,11162,42.42647,-74.199123,-1,Plastic,Headwall,Round Culvert Embedded or with Persistent Water,1.6,1,-1,0.4,40.9,-1,-1,-1,-1,0
+10956,11193,42.435121,-74.181395,-1,Steel / Metal,Headwall,Round Culvert Embedded or with Persistent Water,1.5,1.5,-1.5,1.6,34.5,-1,-1,-1,-1,0
+10929,11166,42.504505,-74.184521,-1,Plastic,Headwall,Round Culvert Embedded or with Persistent Water,1.5,1.4,-1.4,5.1,41,-1,-1,-1,-1,0
+11010,11248,42.488016,-74.214786,-1,Steel / Metal,Headwall,Round Culvert Embedded or with Persistent Water,1.2,0.9,-0.9,1,42,-1,-1,-1,-1,0
+11023,11261,42.491962,-74.197558,-1,Steel / Metal,Headwall,Round Culvert Embedded or with Persistent Water,1.2,1.1,-1.1,7.6,29,-1,-1,-1,-1,0
+10978,11216,42.495408,-74.177033,-1,Steel / Metal,Headwall,Round Culvert Embedded or with Persistent Water,0.8,0.6,-0.6,1.8,26.8,-1,-1,-1,-1,0
+51512,0,42.471557,-73.800808,-1, , , ,0,0,-1,0,0,-1,-1,-1,-1,0
+54906,0,42.518983,-73.850877,-1, , , ,0,0,-1,0,0,-1,-1,-1,-1,0
